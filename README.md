@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <ul>
   <li> ✨ Undergraduate pursuing a Bachelor of Science in Computer Science</li>
   <li> 🌱 Web Development Enthusiast</li>
-  <li> 🔭 Currently working as freelance Frontend Developer</li>
+  <li> 🔭 Currently working as a freelance Frontend Developer</li>
   <li> ⚡ Aim to become proficient in the MERN Stack</li>
 </ul>
 
