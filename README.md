@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>
+  <li> ✨ Undergraduate pursuing a Bachelor of Science in Computer Science</li>
+  <li> 🌱 Web Development Enthusiast</li>
+  <li> 🔭 Currently working as freelance Frontend Developer</li>
+  <li> ⚡ Aim to become proficient in the MERN Stack</li>
+</ul>
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AteeqRana7)](https://github.com/anuraghazra/github-readme-stats)
