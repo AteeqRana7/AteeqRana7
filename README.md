@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Ateeq Rana - Web Dev Lead @ Google DSC <br>------<br> Software Engineer | Frontend Developer</h1>
+  <h1>Ateeq Rana - Web Dev Lead @ Google DSC <br>| Software Engineer | Frontend Developer |</h1>
   <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="150"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ateeq-rana-1b03b8201/">
