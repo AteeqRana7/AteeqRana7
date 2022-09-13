@@ -14,6 +14,9 @@
     <a href="https://gitlab.com/AteeqRana7">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
+    <a href="https://codepen.io/ateeqrana7">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Behance Badge"/>
+  </a>
      </a>
     <a href="https://www.codewars.com/users/AteeqRana7">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="GitLab Badge"/>
