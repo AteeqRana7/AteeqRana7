@@ -54,11 +54,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Hire me! :
+<div>
+  ### :hammer_and_wrench: Hire me! :
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
   <img align="left" alt="Upwork Logo" width="50" height="50" src="upwork.png" style="max-width: 100%;">
 </a>
 <br>
+</div>
+
+
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=dark)
