@@ -58,7 +58,7 @@
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
   <img align="left" alt="Upwork Logo" width="50" height="50" src="upwork.png" style="max-width: 100%;">
 </a>
-
+<br>
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=dark)
