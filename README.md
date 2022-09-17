@@ -58,7 +58,7 @@
 
 <div>
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
-  <img align="left" alt="Upwork Logo" width="55" height="55" src="upwork.png" style="max-width: 100%;">
+  <img align="left" alt="Upwork Logo" width="50" height="50" src="upwork.png" style="max-width: 100%;">
 </a>
 <a href="https://www.fiverr.com/ateeq_rana7" rel="nofollow">
   <img align="left" alt="Fiverr Logo" width="55" height="55" src="fiverr.png" style="max-width: 100%;">
