@@ -38,7 +38,7 @@
   <li> ⚡ Aim to become proficient in the MERN Stack</li>
 </ul>
 
-### :hammer_and_wrench: Languages and Tools :
+### ⚙️: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -54,7 +54,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Hire Me :
+### ⚒️: Hire Me :
 
 <div>
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
