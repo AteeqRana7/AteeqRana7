@@ -54,7 +54,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
 
-### ⚒️: Hire Me :
+### ⚒️: Hire Me for Frontend Development Services :
 
 <div>
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
