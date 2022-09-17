@@ -53,9 +53,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  ### :hammer_and_wrench: Hire me! :
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
   <img align="left" alt="Upwork Logo" width="50" height="50" src="upwork.png" style="max-width: 100%;">
 </a>
