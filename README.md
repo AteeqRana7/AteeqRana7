@@ -32,6 +32,7 @@
 
 <ul>
   <li> ✨ Undergraduate pursuing a Bachelor of Science in Computer Science</li>
+  <li> 👨🏻‍💻 Web Development Lead @ Google Developer Student Clubs</li>
   <li> 🌱 Web Development Enthusiast</li>
   <li> 🔭 Currently working as a freelance Frontend Developer</li>
   <li> ⚡ Aim to become proficient in the MERN Stack</li>
