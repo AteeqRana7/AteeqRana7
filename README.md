@@ -59,7 +59,6 @@
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
   <img align="left" alt="Upwork Logo" width="50" height="50" src="upwork.png" style="max-width: 100%;">
 </a>
-<br>
 </div>
 
 
