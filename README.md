@@ -53,6 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
