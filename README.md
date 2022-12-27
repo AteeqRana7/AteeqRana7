@@ -25,12 +25,13 @@
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
   </div>
-   
+   <br>
   <div>
    <a href="https://ateeqrana.netlify.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="My Website Badge"/>
   </a>
   </div>
+  <br>
 <img src="https://komarev.com/ghpvc/?username=your-github-AteeqRana7&style=flat-square&color=blue" alt=""/>
 </div>
 
