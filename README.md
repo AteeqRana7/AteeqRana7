@@ -69,7 +69,7 @@
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AteeqRana7&theme=vue-dark)](https://git.io/streak-stats)
 
