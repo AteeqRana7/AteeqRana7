@@ -27,7 +27,7 @@
   </div>
    <br>
   <div>
-   <a href="https://ateeqrana.netlify.app/">
+   <a href="https://ateeqrana.live/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="My Website Badge"/>
   </a>
   </div>
