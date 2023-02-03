@@ -38,11 +38,11 @@
 ### :man_technologist: About Me :
 
 <ul>
-  <li> ✨ Undergraduate pursuing a Bachelor of Science in Computer Science</li>
-  <li> 👨🏻‍💻 Web Development Lead @ Google Developer Student Clubs</li>
-  <li> 🌱 Web Development Enthusiast</li>
-  <li> 🔭 Currently working as a freelance Frontend Developer</li>
-  <li> ⚡ Aim to become proficient in the MERN Stack</li>
+  <li> ✨ A final year undergraduate pursuing a Bachelor of Science in Computer Science.</li>
+  <li> 👨🏻‍💻 The Web Development Lead @ Google Developer Student Clubs SZABIST-ISB.</li>
+  <li> 🌱 A Web Development Enthusiast.</li>
+  <li> 🔭 Currently working as a freelance Frontend Developer.</li>
+  <li> ⚡ Aim to become a proficient Full Stack Developer.</li>
 </ul>
 
 ### ⚙️: Languages and Tools :
