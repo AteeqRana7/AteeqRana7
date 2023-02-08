@@ -45,7 +45,7 @@
   <li> ⚡ Aim to become a proficient Full Stack Developer.</li>
 </ul>
 
-### ⚙️: Languages and Tools :
+### ⚙️: Languages & Tools :
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>&nbsp;
@@ -59,7 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="adobexd" **alt="adobexd" width="40" height="40"/>&nbsp;
 </div>
 
-### ⚒️: Hire Me for Frontend Development Services :
+### ⚒️: Hire Me for Web Development Services :
 
 <div>
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
