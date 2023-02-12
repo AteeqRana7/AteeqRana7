@@ -78,7 +78,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AteeqRana7&theme=vue-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AteeqRana7&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AteeqRana7&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![AteeqRana7's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AteeqRana7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
