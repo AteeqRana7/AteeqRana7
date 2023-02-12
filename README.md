@@ -74,7 +74,7 @@
 
 ### :fire: My Stats :
 
-![AteeqRana7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark&count_private=true&show_icons=true)
+![AteeqRana7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AteeqRana7&theme=vue-dark)](https://git.io/streak-stats)
 
