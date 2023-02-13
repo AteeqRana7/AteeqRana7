@@ -82,6 +82,6 @@
 
 [![AteeqRana7's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AteeqRana7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![AteeqRana7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AteeqRana7&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![AteeqRana7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AteeqRana7&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
