@@ -45,7 +45,7 @@
   <li> ⚡ Aim to become a proficient Full Stack Developer.</li>
 </ul>
 
-### ⚙️ Technologies & Tools :
+### ⚙️  Tools & Technologies :
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>&nbsp;
