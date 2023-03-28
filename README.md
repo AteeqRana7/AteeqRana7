@@ -74,6 +74,8 @@
 
 ### :fire: My Stats :
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AteeqRana7&theme=vue-dark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![AteeqRana7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true)
 
 [![AteeqRana7's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AteeqRana7&theme=vue-dark)](https://git.io/streak-stats)
