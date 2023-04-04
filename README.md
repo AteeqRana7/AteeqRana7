@@ -82,7 +82,7 @@
 
 [![AteeqRana7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AteeqRana7&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AteeqRana7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AteeqRana7&theme=vue-dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![AteeqRana7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AteeqRana7&theme=vue-dark&layout=default&langs_count=10&hide_progress=true&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 [![AteeqRana7's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AteeqRana7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
