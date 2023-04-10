@@ -11,7 +11,7 @@
   <a href="https://www.hackerrank.com/ateeq_rana98">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-    <a href="https://gitlab.com/AteeqRana7">
+<!--     <a href="https://gitlab.com/AteeqRana7">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
     <a href="https://codepen.io/ateeqrana7">
@@ -23,7 +23,7 @@
   </a>
   <a href="https://www.behance.net/ateeqrana7">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
+  </a> -->
   </div>
    <br>
   <div>
