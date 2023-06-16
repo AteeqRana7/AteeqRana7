@@ -38,7 +38,7 @@
 ### :man_technologist: About Me :
 
 <ul>
-  <li> ✨ A final year undergraduate pursuing a Bachelor of Science in Computer Science.</li>
+  <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
   <li> 👨🏻‍💻 The Web Development Lead @ Google Developer Student Clubs SZABIST-ISB.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
   <li> 🔭 Currently working as a freelance Frontend Developer.</li>
@@ -76,16 +76,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AteeqRana7&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-![AteeqRana7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark&count_private=false&include_all_commits=true)
+![AteeqRana7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
 
 [![AteeqRana7's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AteeqRana7&theme=vue-dark)](https://git.io/streak-stats)
 
-[![AteeqRana7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AteeqRana7&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![AteeqRana7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AteeqRana7&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AteeqRana7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AteeqRana7&theme=vue-dark&layout=default&langs_count=10&hide_progress=true&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![AteeqRana7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AteeqRana7&langs_count=10&theme=vue-dark&layout=donut&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AteeqRana7's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AteeqRana7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ateeq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AteeqRana7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
