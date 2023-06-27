@@ -41,7 +41,7 @@
   <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
   <li> 👨🏻‍💻 The Web Development Lead @ Google Developer Student Clubs SZABIST-ISB.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
-  <li> 🔭 Currently working as a freelance Frontend Developer.</li>
+  <li> 🔭 Currently working as a Web Developer.</li>
   <li> ⚡ Aim to become a proficient Full Stack Developer.</li>
 </ul>
 
