@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Ateeq Rana - Junior Web Engineer @ BitSol Technologies | Software Engineer | Web Developer</h1>
+  <h1>Ateeq Rana - Junior Web Engineer @ BitSol Technologies | Software Engineer | Full Stack Developer</h1>
   <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="180"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ateeq-rana-1b03b8201/">
@@ -39,10 +39,9 @@
 
 <ul>
   <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
-  <li> 👨🏻‍💻 The Web Development Lead @ Google Developer Student Clubs SZABIST-ISB.</li>
+  <li> 👨🏻‍💻 Junior Web Engineer @ BitSol Technologies.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
-  <li> 🔭 Currently working as a Web Developer.</li>
-  <li> ⚡ Aim to become a proficient Full Stack Developer.</li>
+  <li> 🔭 Currently working as a Full Stack Developer.</li>
 </ul>
 
 ### ⚙️  Tools & Technologies :
