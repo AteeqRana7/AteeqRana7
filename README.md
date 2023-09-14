@@ -41,7 +41,7 @@
   <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
   <li> 👨🏻‍💻 Junior Web Engineer @ BitSol Technologies.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
-  <li> 🔭 Currently working as a Full Stack Developer.</li>
+  <li> 🔭 Currently developing full stack web applications with TypeScript/JavaScript.</li>
 </ul>
 
 ### ⚙️  Tools & Technologies :
