@@ -70,14 +70,12 @@
 
 <div>
 <a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
-  <img align="left" alt="Upwork Logo" width="50" height="50" src="upwork.png" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
 </a>
 <a href="https://www.fiverr.com/ateeq_rana7" rel="nofollow">
-  <img align="left" alt="Fiverr Logo" width="55" height="55" src="fiverr.png" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
 </a>
 </div>
-
-<br><br>
 
 ### :fire: My Stats :
 
