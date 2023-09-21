@@ -35,7 +35,7 @@
   </a>
   </div>
   <br>
-<img src="https://komarev.com/ghpvc/?username=AteeqRana7&style=flat-square&color=blue" alt=""/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAteeqRana71212%2Fhit-counter" alt="Profile Visits"/>
 </div>
 
 ### :man_technologist: About Me :
