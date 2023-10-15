@@ -1,6 +1,13 @@
 <div id="header" align="center">
   <h1>Ateeq Rana - Junior Web Engineer @ BitSol Technologies</h1>
-  <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="180"/>
+    <div>
+    <img src="/AR-Logo-2.png" alt="Ateeq Rana Logo" width='100px'height='100px'/>
+  </div>
+  <div>
+    <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="180"/>
+  </div>
+
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/ateeqrana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,19 +21,9 @@
   <a href="https://leetcode.com/AteeqRana7/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
   </a>
-<!--     <a href="https://gitlab.com/AteeqRana7">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
-  </a>
-    <a href="https://codepen.io/ateeqrana7">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
-  </a>
-     </a>
-    <a href="https://www.codewars.com/users/AteeqRana7">
+  <a href="https://www.codewars.com/users/AteeqRana7">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="GitLab Badge"/>
   </a>
-  <a href="https://www.behance.net/ateeqrana7">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a> -->
   </div>
    <br>
   <div>
