@@ -39,16 +39,16 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAteeqRana71212%2Fhit-counter" alt="Profile Visits"/>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 <ul>
   <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
-  <li> 👨🏻‍💻 Junior Web Engineer @ BitSol Technologies.</li>
+  <li> 👨🏻‍💻 Full Stack Web Developer @ BitSol Technologies.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
   <li> 🔭 Currently developing full stack web applications with TypeScript/JavaScript.</li>
 </ul>
 
-### ⚙️  Tools & Technologies :
+### ⚙️ Tools & Technologies :
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -78,7 +78,7 @@
 </a>
 </div>
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=AteeqRana7&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![AteeqRana7's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
