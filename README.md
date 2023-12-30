@@ -115,5 +115,7 @@
 
 [![Ateeq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AteeqRana7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=AR&textBg=true&fontAlignY=59&section=footer&fontSize=50&fontColor=2d4263&stroke=ffff&strokeWidth=1"/>
+</p>
 
