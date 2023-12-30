@@ -7,7 +7,6 @@
     <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="180"/>
   </div>
 
-
   <div id="badges">
   <a href="https://www.linkedin.com/in/ateeqrana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -49,8 +48,9 @@
 </ul>
 
 ### ⚙️ Tools & Technologies :
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nest,apollo,graphql,mongodb,postgres,firebase,gcp,sequelize,materialui,sass,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
 
-<div>
+<!--<div>
   <p>Languages</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -89,7 +89,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
-</div>
+</div>-->
 
 ### ⚒️ Hire Me for Web Development Services :
 
