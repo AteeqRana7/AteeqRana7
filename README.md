@@ -4,14 +4,10 @@
     <img src="/AR-Logo-2-circle.png" alt="Ateeq Rana Logo" width='100px'height='100px'/>
       
   </div>
-  <div>
-    <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="180"/>
-  </div>
 
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=DA0037&background=2D42638D&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Web+Developer;I+am+a+Full+Stack+Developer;I+am+a+JavaScript+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=DA0037&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Web+Developer;I+am+a+Full+Stack+Developer;I+am+a+JavaScript+Developer" alt="Typing SVG" /></a>
   </div>
-    <br/>
     <br/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ateeqrana/">
