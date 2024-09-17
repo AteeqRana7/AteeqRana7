@@ -16,7 +16,7 @@
   <a href="https://stackoverflow.com/users/13228534/ateeq-rana">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/ateeq_rana98">
+  <a href="https://www.hackerrank.com/ateeq_rana7">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   <a href="https://leetcode.com/AteeqRana7/">
