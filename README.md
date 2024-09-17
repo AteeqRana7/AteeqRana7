@@ -6,7 +6,7 @@
   </div>
 
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FD1C5&width=435&lines=I+build+things+for+the+web;I'm+a+Full+Stack+Developer;I'm+a+Web+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FD1C5&center=true&vCenter=true&width=435&lines=I+build+things+for+the+web;I'm+a+Full+Stack+Developer;I'm+a+Web+Developer" alt="Typing SVG" /></a>
   </div>
     <br/>
   <div id="badges">
