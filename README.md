@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Ateeq Rana - Full Stack Web Developer @ BitSol Technologies</h1>
+  <h1>Ateeq Rana - Full Stack Developer @ BitSol Technologies</h1>
     <div>
     <img src="/artealblue-cropped.png" alt="Ateeq Rana Logo" width='100px'height='100px'/>
       
@@ -43,8 +43,8 @@
 ### 👨‍💻 About Me :
 
 <ul>
-  <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
-  <li> 👨🏻‍💻 Full Stack Web Developer @ BitSol Technologies.</li>
+  <li> ✨ Bachelor's of Science in Computer Science (Silver Medalist).</li>
+  <li> 👨🏻‍💻 Full Stack Developer @ BitSol Technologies.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
   <li> 🔭 Currently developing full stack web applications with TypeScript/JavaScript.</li>
 </ul>
