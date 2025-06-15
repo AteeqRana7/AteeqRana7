@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Ateeq Rana - Full Stack Developer @ BitSol Technologies</h1>
+  <h1>Ateeq Rana - Full Stack Developer</h1>
     <div>
     <img src="/artealblue-cropped.png" alt="Ateeq Rana Logo" width='100px'height='100px'/>
       
