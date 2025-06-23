@@ -37,9 +37,7 @@
   </a>
   </div>
   <br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAteeqRana71212%2Fhit-counter" alt="Profile Visits"/>
 </div>
-
 ### 👨‍💻 About Me :
 
 <ul>
@@ -106,6 +104,7 @@
 
 ### 🔥 My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=AteeqRana7&theme=onestar&no-frame=true&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--![AteeqRana7's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)-->
 
