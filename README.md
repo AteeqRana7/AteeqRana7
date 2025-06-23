@@ -43,7 +43,7 @@
 
 <ul>
   <li> ✨ Bachelor's of Science in Computer Science (Silver Medalist).</li>
-  <li> 👨🏻‍💻 Full Stack Developer @ BitSol Technologies.</li>
+  <li> 👨🏻‍💻 Full Stack Developer.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
   <li> 🔭 Currently developing full stack web applications with TypeScript/JavaScript.</li>
 </ul>
