@@ -49,7 +49,7 @@
 </ul>
 
 ### ⚙️ Tools & Technologies :
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nest,apollo,graphql,mongodb,postgres,firebase,gcp,sequelize,materialui,sass,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,nest,apollo,graphql,mongodb,postgres,firebase,gcp,sequelize,materialui,sass,jest,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
 
 <!--<div>
   <p>Languages</p>
