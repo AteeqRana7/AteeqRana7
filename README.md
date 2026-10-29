@@ -7,6 +7,7 @@
 <a href="https://ateeqrana.live/"><img src="https://img.shields.io/badge/ateeqrana.live-0F1011?style=for-the-badge&logo=About.me&logoColor=00E0A7" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/ateeqrana/"><img src="https://img.shields.io/badge/LinkedIn-0F1011?style=for-the-badge&logo=linkedin&logoColor=00E0A7" alt="LinkedIn"/></a>
 <a href="mailto:ateeq.rana98@gmail.com"><img src="https://img.shields.io/badge/Email-0F1011?style=for-the-badge&logo=gmail&logoColor=00E0A7" alt="Email"/></a>
+</br>
 <a href="https://wakatime.com/@b520398b-14b1-4d6c-ad35-953c1d34769f"><img src="https://wakatime.com/badge/user/b520398b-14b1-4d6c-ad35-953c1d34769f.svg" alt="Total time coded since Feb 12 2023"/></a>
 
 </div>
