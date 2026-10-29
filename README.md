@@ -42,10 +42,12 @@
 ### 👨‍💻 About Me :
 
 <ul>
-  <li> ✨ Bachelor's of Science in Computer Science (Silver Medalist).</li>
-  <li> 👨🏻‍💻 Full Stack Developer.</li>
-  <li> 🌱 A Web Development Enthusiast.</li>
-  <li> 🔭 Currently developing full stack web applications with TypeScript/JavaScript.</li>
+  <li> 🎓 MSc Advanced Computer Science @ University of Leicester (GREAT Scholarship) | BSc Computer Science (Silver Medalist)</li>
+  <li> 💼 Software Engineer (Part-time) @ Primo Dialler, building internal platforms on ClickHouse, APIs and VoIP/telecom systems</li>
+  <li> 🏗️ 3 years' experience in scalable full-stack systems: monolith → microservices migrations, GraphQL, GCP & AWS</li>
+  <li> 🤖 Building AI-agent integrations and event-driven systems (Pub/Sub, SNS/SQS, Firebase Cloud Messaging)</li>
+  <li> 📜 Apollo GraphQL Graph Developer Professional | Neo4j Certified Professional</li>
+  <li> 📍 Leicester, UK, open to relocation</li>
 </ul>
 
 ### ⚙️ Tools & Technologies :
