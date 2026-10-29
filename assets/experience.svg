@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="476" viewBox="0 0 830 476" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-labelledby="t d">
+<title id="t">Experience and education timeline</title>
+<desc id="d">Primo Dialler, University of Leicester MSc, Bitsol, Bytewise.</desc>
+<defs></defs>
+<rect x="0.5" y="0.5" width="829" height="475" rx="12" fill="#08090A" stroke="#24272A"/><g transform="translate(20,18)"><text x="2" y="24" font-size="15" fill="#00E0A7" font-weight="700">$</text>
+<text x="20" y="24" font-size="15" fill="#D8DADB">git log --oneline --graph</text>
+<text x="788" y="24" font-size="12" fill="#6C7073" text-anchor="end">02 / experience</text>
+<line x1="0" y1="38" x2="790" y2="38" stroke="#24272A"/>
+<line x1="0" y1="38" x2="56" y2="38" stroke="#00E0A7" stroke-width="2"/><line x1="14" y1="74" x2="14" y2="370" stroke="#24272A" stroke-width="2"/>
+<g>
+  <circle cx="14" cy="74" r="6" fill="#00E0A7" stroke="#00E0A7" stroke-width="2"/>
+  <text x="40" y="78" font-size="12" fill="#4AC3C8">Sept 2026 — Present</text>
+  <text x="788" y="78" font-size="11" fill="#6C7073" text-anchor="end">f9d2e71</text>
+  <text x="40" y="100" font-size="15" font-weight="700" fill="#D8DADB">Software Engineer (Part-time) · Primo Dialler</text>
+  <text x="40" y="120" font-size="12" fill="#6C7073">Customer health platform (ClickHouse, Peeredge API) · VoIP, SIP, call flows, observability</text>
+</g>
+<g>
+  <circle cx="14" cy="148" r="6" fill="#00E0A7" stroke="#00E0A7" stroke-width="2"/>
+  <text x="40" y="152" font-size="12" fill="#4AC3C8">Sept 2026 — Present</text>
+  <text x="788" y="152" font-size="11" fill="#6C7073" text-anchor="end">root</text>
+  <text x="40" y="174" font-size="15" font-weight="700" fill="#D8DADB">MSc Advanced Computer Science · University of Leicester</text>
+  <text x="40" y="194" font-size="12" fill="#6C7073">GREAT Scholarship recipient (£10,000, merit-based)</text>
+</g>
+<g>
+  <circle cx="14" cy="222" r="6" fill="#08090A" stroke="#00E0A7" stroke-width="2"/>
+  <text x="40" y="226" font-size="12" fill="#4AC3C8">Jan 2025 — Jul 2026</text>
+  <text x="788" y="226" font-size="11" fill="#6C7073" text-anchor="end">a1f3c2d</text>
+  <text x="40" y="248" font-size="15" font-weight="700" fill="#D8DADB">Software Engineer · Bitsol</text>
+  <text x="40" y="268" font-size="12" fill="#6C7073">Monolith → microservices, healthcare platform on AWS, Pub/Sub, AI agents, FCM notifications</text>
+</g>
+<g>
+  <circle cx="14" cy="296" r="6" fill="#08090A" stroke="#00E0A7" stroke-width="2"/>
+  <text x="40" y="300" font-size="12" fill="#4AC3C8">Jul 2023 — Dec 2024</text>
+  <text x="788" y="300" font-size="11" fill="#6C7073" text-anchor="end">b8e904a</text>
+  <text x="40" y="322" font-size="15" font-weight="700" fill="#D8DADB">Associate Software Engineer · Bitsol</text>
+  <text x="40" y="342" font-size="12" fill="#6C7073">GraphQL batching + caching, OpenAI email automation, intern training and mentoring</text>
+</g>
+<g>
+  <circle cx="14" cy="370" r="6" fill="#08090A" stroke="#00E0A7" stroke-width="2"/>
+  <text x="40" y="374" font-size="12" fill="#4AC3C8">Mar 2023 — Jun 2023</text>
+  <text x="788" y="374" font-size="11" fill="#6C7073" text-anchor="end">c0d1e2f</text>
+  <text x="40" y="396" font-size="15" font-weight="700" fill="#D8DADB">Full Stack Development Intern · Bytewise</text>
+  <text x="40" y="416" font-size="12" fill="#6C7073">Project-based full-stack training with real-world simulation projects</text>
+</g></g>
+</svg>

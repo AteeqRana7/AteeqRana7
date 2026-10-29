@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="340" viewBox="0 0 830 340" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-labelledby="t d">
+<title id="t">Ateeq Rana — Software Engineer</title>
+<desc id="d">Terminal-style banner: Software Engineer, full-stack, cloud and microservices, based in Leicester, open to work.</desc>
+<defs>
+<clipPath id="frame"><rect x="1" y="1" width="828" height="338" rx="12"/></clipPath>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.9" fill="#24272A"/></pattern>
+<radialGradient id="glow" cx="88%" cy="0%" r="65%"><stop offset="0" stop-color="#00E0A7" stop-opacity="0.14"/><stop offset="1" stop-color="#00E0A7" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx="0%" cy="100%" r="55%"><stop offset="0" stop-color="#4AC3C8" stop-opacity="0.08"/><stop offset="1" stop-color="#4AC3C8" stop-opacity="0"/></radialGradient>
+<clipPath id="c1"><rect x="0" y="64" width="830" height="32"><animate attributeName="width" values="0;0;140;830;830" keyTimes="0;0.0462;0.1077;0.1154;1" dur="6.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="0" y="98" width="830" height="56"><animate attributeName="width" values="0;0;323;830;830" keyTimes="0;0.1231;0.2308;0.2385;1" dur="6.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="0" y="156" width="830" height="32"><animate attributeName="width" values="0;0;194;830;830" keyTimes="0;0.2615;0.3231;0.3308;1" dur="6.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="0" y="190" width="830" height="32"><animate attributeName="width" values="0;0;687;830;830" keyTimes="0;0.3385;0.4923;0.5000;1" dur="6.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="0" y="226" width="830" height="24"><animate attributeName="width" values="0;0;680;830;830" keyTimes="0;0.5077;0.7077;0.7154;1" dur="6.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c6"><rect x="0" y="252" width="830" height="32"><animate attributeName="width" values="0;0;484;830;830" keyTimes="0;0.7385;0.8462;0.8538;1" dur="6.5s" fill="freeze"/></rect></clipPath>
+</defs>
+
+<g clip-path="url(#frame)">
+  <rect x="0" y="0" width="830" height="340" fill="#08090A"/>
+  <rect x="0" y="0" width="830" height="340" fill="url(#dots)" opacity="0.55"/>
+  <rect x="0" y="0" width="830" height="340" fill="url(#glow)"/>
+  <rect x="0" y="0" width="830" height="340" fill="url(#glow2)"/>
+  <rect x="0" y="0" width="830" height="42" fill="#0F1011"/>
+  <line x1="0" y1="42" x2="830" y2="42" stroke="#24272A"/>
+</g>
+<rect x="1" y="1" width="828" height="338" rx="12" fill="none" stroke="#24272A"/>
+<circle cx="26" cy="21" r="6" fill="#FF5F57"/><circle cx="46" cy="21" r="6" fill="#FEBC2E"/><circle cx="66" cy="21" r="6" fill="#28C840"/>
+<text x="415.0" y="26" font-size="12" fill="#6C7073" text-anchor="middle">zsh — ateeq-rana · portfolio</text>
+<text x="806" y="26" font-size="12" fill="#6C7073" text-anchor="end">ar</text>
+
+<g clip-path="url(#c1)"><text x="40" y="88" font-size="15"><tspan fill="#00E0A7" font-weight="700">$</tspan><tspan fill="#D8DADB"> whoami</tspan></text></g>
+<g clip-path="url(#c2)"><text x="40" y="138" font-size="46" font-weight="700" fill="#D8DADB">Ateeq Rana</text></g>
+<g clip-path="url(#c3)"><text x="40" y="178" font-size="15"><tspan fill="#00E0A7" font-weight="700">$</tspan><tspan fill="#D8DADB"> cat role.txt</tspan></text></g>
+<g clip-path="url(#c4)"><text x="40" y="214" font-size="19"><tspan fill="#00E0A7" font-weight="700">Software Engineer</tspan><tspan fill="#D8DADB"> · Full-Stack · Cloud &amp; Microservices</tspan></text></g>
+<g clip-path="url(#c5)"><text x="40" y="242" font-size="13.5" fill="#6C7073">3 years shipping scalable systems — JavaScript · TypeScript · GraphQL · GCP</text></g>
+<g clip-path="url(#c6)">
+  <text x="40" y="274" font-size="15"><tspan fill="#00E0A7" font-weight="700">$</tspan><tspan fill="#D8DADB"> status</tspan></text>
+  <circle cx="142" cy="269" r="4.5" fill="#00E0A7"/>
+  <circle cx="142" cy="269" r="4.5" fill="none" stroke="#00E0A7" stroke-width="1.5"><animate attributeName="r" values="4.5;12" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="158" y="274" font-size="15" fill="#00E0A7" font-weight="700">open to work</text>
+  <text x="300" y="274" font-size="13.5" fill="#6C7073">Leicester, UK · open to relocation</text>
+</g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.8769;0.8785;1" dur="6.5s" fill="freeze"/>
+  <text x="40" y="312" font-size="15" fill="#00E0A7" font-weight="700">$</text>
+  <rect x="58" y="299" width="9" height="17" fill="#00E0A7"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect>
+</g>
+
+</svg>

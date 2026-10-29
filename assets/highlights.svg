@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="342" viewBox="0 0 830 342" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-labelledby="t d">
+<title id="t">Impact highlights</title>
+<desc id="d">Key measurable results: 40% less downtime, 50% faster deployments, 65% performance gain, API responses cut from 60 seconds to 7.</desc>
+<defs></defs>
+<rect x="0.5" y="0.5" width="829" height="341" rx="12" fill="#08090A" stroke="#24272A"/><g transform="translate(20,18)"><text x="2" y="24" font-size="15" fill="#00E0A7" font-weight="700">$</text>
+<text x="20" y="24" font-size="15" fill="#D8DADB">cat highlights.log</text>
+<text x="788" y="24" font-size="12" fill="#6C7073" text-anchor="end">01 / impact</text>
+<line x1="0" y1="38" x2="790" y2="38" stroke="#24272A"/>
+<line x1="0" y1="38" x2="56" y2="38" stroke="#00E0A7" stroke-width="2"/>
+<g>
+  <rect x="0.0" y="54" width="188.5" height="118" rx="10" fill="#0F1011" stroke="#24272A"/>
+  <rect x="1.0" y="55" width="186.5" height="3" rx="1.5" fill="#00E0A7" opacity="0.85"/>
+  <text x="18.0" y="106" font-size="30" font-weight="700" fill="#00E0A7">−40%</text>
+  <text x="18.0" y="133" font-size="13" fill="#D8DADB">system downtime</text>
+  <text x="18.0" y="153" font-size="10.5" fill="#6C7073">monolith → microservices</text>
+</g>
+<g>
+  <rect x="200.5" y="54" width="188.5" height="118" rx="10" fill="#0F1011" stroke="#24272A"/>
+  <rect x="201.5" y="55" width="186.5" height="3" rx="1.5" fill="#00E0A7" opacity="0.85"/>
+  <text x="218.5" y="106" font-size="30" font-weight="700" fill="#00E0A7">−50%</text>
+  <text x="218.5" y="133" font-size="13" fill="#D8DADB">deployment time</text>
+  <text x="218.5" y="153" font-size="10.5" fill="#6C7073">same migration, Node + GCP</text>
+</g>
+<g>
+  <rect x="401.0" y="54" width="188.5" height="118" rx="10" fill="#0F1011" stroke="#24272A"/>
+  <rect x="402.0" y="55" width="186.5" height="3" rx="1.5" fill="#00E0A7" opacity="0.85"/>
+  <text x="419.0" y="106" font-size="30" font-weight="700" fill="#00E0A7">+65%</text>
+  <text x="419.0" y="133" font-size="13" fill="#D8DADB">app performance</text>
+  <text x="419.0" y="153" font-size="10.5" fill="#6C7073">GraphQL batch + cache</text>
+</g>
+<g>
+  <rect x="601.5" y="54" width="188.5" height="118" rx="10" fill="#0F1011" stroke="#24272A"/>
+  <rect x="602.5" y="55" width="186.5" height="3" rx="1.5" fill="#00E0A7" opacity="0.85"/>
+  <text x="619.5" y="106" font-size="30" font-weight="700" fill="#00E0A7">60s→7s</text>
+  <text x="619.5" y="133" font-size="13" fill="#D8DADB">API response time</text>
+  <text x="619.5" y="153" font-size="10.5" fill="#6C7073">healthcare platform</text>
+</g>
+<g>
+  <rect x="0.0" y="184" width="188.5" height="118" rx="10" fill="#0F1011" stroke="#24272A"/>
+  <rect x="1.0" y="185" width="186.5" height="3" rx="1.5" fill="#00E0A7" opacity="0.85"/>
+  <text x="18.0" y="236" font-size="30" font-weight="700" fill="#00E0A7">+30%</text>
+  <text x="18.0" y="263" font-size="13" fill="#D8DADB">scalability</text>
+  <text x="18.0" y="283" font-size="10.5" fill="#6C7073">with Onix (GCP partner)</text>
+</g>
+<g>
+  <rect x="200.5" y="184" width="188.5" height="118" rx="10" fill="#0F1011" stroke="#24272A"/>
+  <rect x="201.5" y="185" width="186.5" height="3" rx="1.5" fill="#00E0A7" opacity="0.85"/>
+  <text x="218.5" y="236" font-size="30" font-weight="700" fill="#00E0A7">−70%</text>
+  <text x="218.5" y="263" font-size="13" fill="#D8DADB">manual drafting</text>
+  <text x="218.5" y="283" font-size="10.5" fill="#6C7073">OpenAI email automation</text>
+</g>
+<g>
+  <rect x="401.0" y="184" width="188.5" height="118" rx="10" fill="#0F1011" stroke="#24272A"/>
+  <rect x="402.0" y="185" width="186.5" height="3" rx="1.5" fill="#00E0A7" opacity="0.85"/>
+  <text x="419.0" y="236" font-size="30" font-weight="700" fill="#00E0A7">6×</text>
+  <text x="419.0" y="263" font-size="13" fill="#D8DADB">top performer</text>
+  <text x="419.0" y="283" font-size="10.5" fill="#6C7073">of the month · Bitsol</text>
+</g>
+<g>
+  <rect x="601.5" y="184" width="188.5" height="118" rx="10" fill="#0F1011" stroke="#24272A"/>
+  <rect x="602.5" y="185" width="186.5" height="3" rx="1.5" fill="#00E0A7" opacity="0.85"/>
+  <text x="619.5" y="236" font-size="30" font-weight="700" fill="#00E0A7">£10k</text>
+  <text x="619.5" y="263" font-size="13" fill="#D8DADB">GREAT Scholarship</text>
+  <text x="619.5" y="283" font-size="10.5" fill="#6C7073">University of Leicester</text>
+</g></g>
+</svg>
